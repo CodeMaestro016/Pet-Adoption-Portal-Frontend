@@ -5,6 +5,9 @@ import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 import NavBar from './components/NavBar';
 import Home from './pages/Home';
+import ViewPets from './pages/ViewPets'; // New page to view pets
+import AddPet from './pages/AddPet'; // New page to add pets
+import PetListings from './pages/PetListings';
 
 function App() {
   return (
@@ -17,6 +20,9 @@ function App() {
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
+            <Route path="/view-pets" element={<ViewPets />} />
+            <Route path="/add-pet" element={<AddPet />} />
+            <Route path="/pet-listings" element={<PetListings />} />
           </Routes>
         </div>
       </div>
