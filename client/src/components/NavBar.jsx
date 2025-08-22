@@ -37,7 +37,7 @@ const NavBar = () => {
           to="/"
           className="text-2xl font-bold tracking-wide hover:opacity-90 transition-opacity"
         >
-          🐾 Pet Adoption Portal
+          🐾 PawsHome
         </Link>
 
         {/* Links */}

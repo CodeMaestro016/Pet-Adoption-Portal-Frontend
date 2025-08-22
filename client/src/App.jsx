@@ -8,6 +8,7 @@ import Home from './pages/Home';
 import ViewPets from './pages/ViewPets'; // New page to view pets
 import AddPet from './pages/AddPet'; // New page to add pets
 import PetListings from './pages/PetListings';
+import Footer from './components/Footer'; // Importing the Footer component
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
             <Route path="/pet-listings" element={<PetListings />} />
           </Routes>
         </div>
+        <Footer /> {/* Adding the Footer component */}
       </div>
     </Router>
   );
