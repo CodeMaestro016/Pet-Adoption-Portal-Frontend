@@ -91,7 +91,7 @@ const Dashboard = () => {
             <h2 className="text-5xl md:text-6xl font-bold mb-4">📊 Dashboard</h2>
             <div className="bg-white/20 backdrop-blur-sm rounded-2xl p-6 inline-block">
               <p className="text-xl md:text-2xl">
-                Welcome, <span className="font-bold">{user.name}</span> ({user.role})
+                Welcome, <span className="font-bold">{user.name}</span> 
               </p>
             </div>
           </div>
