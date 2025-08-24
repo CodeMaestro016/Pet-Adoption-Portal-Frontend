@@ -71,7 +71,19 @@ tailwindcss: CSS framework for styling.
 
 ## 📸 Screenshots
 ### HomePage
-![Image](https://github.com/user-attachments/assets/20f2f202-fe99-40ed-b774-064eb110847a)
+![Image](https://github.com/user-attachments/assets/2ffc21ee-03b0-419d-b9ba-46b94bdb45bf)
+
+### Shelter Dashboard
+![Image](https://github.com/user-attachments/assets/c22836fd-38a0-479c-aa39-981c5f3dea39)
+
+### Pet Portal
+![Image](https://github.com/user-attachments/assets/ef09afd5-d666-4165-9181-b2c2d4c4c7a7)
+
+### Pet Portal Form 
+![Image](https://github.com/user-attachments/assets/e671acb3-f291-40e0-b27c-b2cb315c69db)
+
+
+
 
 
 
